@@ -11,6 +11,7 @@ defusedxml==0.7.1
 executing==2.2.0
 fastjsonschema==2.21.1
 fonttools==4.56.0
+imageio==2.37.0
 ipykernel==6.29.5
 ipython==9.0.2
 ipython_pygments_lexers==1.1.1
@@ -22,6 +23,7 @@ jupyter_client==8.6.3
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 kiwisolver==1.4.8
+lazy_loader==0.4
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
@@ -30,6 +32,7 @@ nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
+networkx==3.4.2
 numpy==2.2.4
 opencv-python==4.11.0.86
 packaging==24.2
@@ -52,6 +55,7 @@ pytz==2025.2
 pyzmq==26.3.0
 referencing==0.36.2
 rpds-py==0.24.0
+scikit-image==0.25.2
 scipy==1.15.2
 six==1.17.0
 soupsieve==2.6
