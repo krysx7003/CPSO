@@ -50,5 +50,5 @@ for file_name in pdf_files:
         merged_pdf.append(open(os.path.join(target_path, file_name), 'rb'))
 
 # Save the merged PDF file
-with open(dir+'/Sprawozdanie_1.pdf', 'wb') as output_file:
+with open(dir+'/Sprawozdanie_2.pdf', 'wb') as output_file:
     merged_pdf.write(output_file)
